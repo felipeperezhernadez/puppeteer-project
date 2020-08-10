@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-project",
+  "version": "1.0.0",
+  "description": "A project to lear how to work with puppeteer library",
+  "main": "index.js",
+  "author": "Jose Jorge Rodriguez Salgado",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "puppeteer-core": "^5.2.1"
+  }
+}
